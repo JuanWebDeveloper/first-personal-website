@@ -1,0 +1,2 @@
+# first-personal-website
+This is the first personal website that I developed, I did it from a template and I remember that I did it in the end of the semester holidays, it has my personal information, my skills and services, I remember that by then I tried to make my form send with php, Even though I had no idea how the backend worked and I didn't download a local server or anything, I still left it that way because it seems to me that it is a good memory of my inexperience.
